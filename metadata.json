@@ -1,0 +1,6 @@
+{
+  "name": "DailyPulse",
+  "description": "All-in-one bilingual (Bengali & English) daily companion featuring a Room-backed Smart Todo List, real-time Open-Meteo Weather Forecast, and an interactive Brain Quiz Arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

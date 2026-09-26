@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DailyPulse</string>
+    <string name="app_subtitle_en">Todo • Live Weather • Brain Quiz</string>
+    <string name="app_subtitle_bn">টু-ডু লিস্ট • লাইভ আবহাওয়া • কুইজ গেম</string>
+    <string name="nav_todo_en">Todo List</string>
+    <string name="nav_todo_bn">টু-ডু লিস্ট</string>
+    <string name="nav_weather_en">Weather</string>
+    <string name="nav_weather_bn">আবহাওয়া</string>
+    <string name="nav_quiz_en">Quiz App</string>
+    <string name="nav_quiz_bn">কুইজ অ্যাপ</string>
+    <string name="toggle_language_desc">Switch Language between Bengali and English</string>
+    <string name="add_task_desc">Add New Task</string>
+    <string name="hero_todo_desc">Productivity checklist banner</string>
+    <string name="hero_weather_desc">Live weather sky banner</string>
+    <string name="hero_quiz_desc">Interactive brain quiz banner</string>
+    <string name="search_city_desc">Search city for weather forecast</string>
+    <string name="use_location_desc">Use device GPS location for weather</string>
+    <string name="refresh_weather_desc">Refresh weather forecast</string>
+</resources>
